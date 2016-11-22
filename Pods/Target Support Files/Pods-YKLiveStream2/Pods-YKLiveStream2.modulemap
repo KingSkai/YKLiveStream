@@ -1,0 +1,6 @@
+framework module Pods_YKLiveStream2 {
+  umbrella header "Pods-YKLiveStream2-umbrella.h"
+
+  export *
+  module * { export * }
+}
